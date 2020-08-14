@@ -1,0 +1,73 @@
+*{
+  font-family: 'Anton', sans-serif;
+  font-size: 25px;
+  color: #505050
+}
+.text{
+  color: #505050;
+}
+p{
+}
+.navbar{
+  background-color: #6dd5ed;
+  height: 60px;
+  width: 100%;
+}
+.navlist{
+  float: left;
+
+}
+.navlist li{
+  display: inline-block;
+}
+.navlist li a{
+  color: #505050;
+  margin: 0 20px;
+  text-decoration: none;
+}
+.navlist li a:hover{
+  color: #2193b0;
+  text-decoration: underline;
+}
+.Discordclick{
+  text-decoration: none;
+  color: #505050
+}
+.Kontakttable{
+  text-decoration: none;
+  color: #505050
+}
+body{
+  margin: 0;
+}
+.text_center{
+  text-align: center;
+}
+h1{
+  font-size: 40px;
+}
+.welcome{
+  background-image: url("../Images/Banner.png");
+  background-position: center;
+  background-size: cover;
+  padding: 100px;
+}
+.Basic_Section{
+  background-color: #00C9FF;
+  padding: 50px;
+}
+.Section_2{
+  background-color: #ffffff;
+  padding: 50px;
+}
+.form_1 input{
+  padding: 7px;
+  border-radius: 25px;
+  border: 2px solid;
+  border-color: #00C9FF;
+  margin: 10px 0 10px;
+}
+.btn{
+  background-color: #00C9FF;
+  font-weight: 600;
+}
